@@ -1,0 +1,8 @@
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\obj\Debug\CS283-Homework1.csprojResolveAssemblyReference.cache
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\bin\Debug\CS283-Homework1.exe.config
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\bin\Debug\CS283-Homework1.exe
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\bin\Debug\CS283-Homework1.pdb
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\bin\Debug\PokemonLib.dll
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\bin\Debug\PokemonLib.pdb
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\obj\Debug\CS283-Homework1.exe
+C:\CS283-25Night-Examples\CS283-Homework1\CS283-Homework1\obj\Debug\CS283-Homework1.pdb
