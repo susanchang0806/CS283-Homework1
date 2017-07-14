@@ -3,3 +3,8 @@ C:\CS283-25Night-Examples\PokemonLib\PokemonLib\bin\Debug\PokemonLib.dll
 C:\CS283-25Night-Examples\PokemonLib\PokemonLib\bin\Debug\PokemonLib.pdb
 C:\CS283-25Night-Examples\PokemonLib\PokemonLib\obj\Debug\PokemonLib.dll
 C:\CS283-25Night-Examples\PokemonLib\PokemonLib\obj\Debug\PokemonLib.pdb
+C:\CS283-25Night-Examples\CS283-Homework1\PokemonLib\PokemonLib\bin\Debug\PokemonLib.dll
+C:\CS283-25Night-Examples\CS283-Homework1\PokemonLib\PokemonLib\bin\Debug\PokemonLib.pdb
+C:\CS283-25Night-Examples\CS283-Homework1\PokemonLib\PokemonLib\obj\Debug\PokemonLib.csprojResolveAssemblyReference.cache
+C:\CS283-25Night-Examples\CS283-Homework1\PokemonLib\PokemonLib\obj\Debug\PokemonLib.dll
+C:\CS283-25Night-Examples\CS283-Homework1\PokemonLib\PokemonLib\obj\Debug\PokemonLib.pdb
